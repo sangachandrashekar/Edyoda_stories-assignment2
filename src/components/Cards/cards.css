@@ -77,7 +77,7 @@ section.filter {
     box-shadow: 0 5px 20px 0 rgb(0 0 0 / 10%);
     border-radius: 5px;
     margin: 0.5rem;
-    border: 1px solid rgba(215, 43, 204, 0.752);
+    border: 1px gray;
     display: inline-block;
   }
   .item .imagesection {
